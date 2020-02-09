@@ -1,1 +1,1 @@
-# go-logs-aggs
+# Go Msg Aggregator
